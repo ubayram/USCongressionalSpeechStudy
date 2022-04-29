@@ -6,13 +6,24 @@ More details about the methods and the data collection used in this study are av
 
 If you are using the scripts in this repository or the paper, please cite:
 
+APA style:
+
 Bayram, U., Pestian, J., Santel, D., & Minai, A. A. (2019, July). What’s in a word? detecting partisan affiliation from word use in congressional speeches. In 2019 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.
 
+Bibtex:
+
 @inproceedings{bayram2019s,
+
   title={What’s in a word? detecting partisan affiliation from word use in congressional speeches},
+  
   author={Bayram, Ulya and Pestian, John and Santel, Daniel and Minai, Ali A},
+  
   booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
+  
   pages={1--8},
+  
   year={2019},
+  
   organization={IEEE}
+  
 }
